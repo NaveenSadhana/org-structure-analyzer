@@ -30,6 +30,12 @@ This is a **Spring Boot application** that analyzes the organizational structure
 ✅ **Uses a default CSV file if no file is uploaded**  
 
 ---
+## **Environment Setup** 🛠️
+
+- **Java 21+** (JDK)
+- **Maven 3.8+** (Dependency Management)
+- **Spring Boot 3.2.0** (Spring MVC, REST)
+- **JUnit 5.8.0** (Unit Testing)
 
 ## **Project Structure** 🏗️
 
