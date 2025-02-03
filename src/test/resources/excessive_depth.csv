@@ -1,0 +1,13 @@
+Id,firstName,lastName,salary,managerId
+123,Joe,Doe,60000,
+124,Martin,Chekov,45000,123
+125,Bob,Ronstad,47000,123
+300,Grap,Dama,50000,124
+301,sdf,gfdvf,50000,300
+302,ergdr,ftyhnfgbv,50000,301
+303,swef,rtyu,50000,302
+304,wedsf,iku,1150000,303
+305,sdfe,ewrtgfd,50000,304
+306,nbtft,ghfg,50000,305
+307,zdfsd,bvdfc,150000,306
+308,srdgdf,uiy,50000,307
